@@ -1,4 +1,4 @@
-# Simple Crud
+# Simple CRUD
 This CRUD App can manipulate a database which include a key and a pair of names, as follows:
 
 ![](./docs/Screenshot.png)
