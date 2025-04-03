@@ -1,10 +1,3 @@
-# FullStack Tutorial
-
-[![](https://img.shields.io/badge/managed%20by-ppm-red)](https://jiangyiqun.github.io/ppm/)
-
-In this fullstack tutorial, I will implement a simple CRUD App, including:
-- A [Frontend](https://jiangyiqun.github.io/fullstack_tutorial/) using [JavaScript(React)](https://reactjs.org/)
-- A [Backend](./docs/README.md) using [Python(Flask)](https://flask.palletsprojects.com/en/1.1.x/)
 
 This CRUD App can manipulate a database which include a key and a pair of names, as follows:
 
