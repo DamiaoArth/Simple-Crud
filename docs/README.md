@@ -1,7 +1,3 @@
-# API Documentation
-
-- Author: Jack Jiang
-- Date: Jul. 2019
 
 ## Overview
 
@@ -26,8 +22,8 @@ ___
 ```json
 {
     "key": @key,
-    "firstName": "Jack",
-    "LastName": "Jiang"
+    "firstName": "John",
+    "LastName": "Doe"
 }
 ```
 
@@ -41,8 +37,8 @@ ___
 ```json
 {
     "key": @key,
-    "firstName": "Jack",
-    "LastName": "Jiang"
+    "firstName": "John",
+    "LastName": "Doe"
 }
 ```
 
@@ -89,8 +85,8 @@ ___
 ```json
 {
     "key": @key,
-    "firstName": "Jack",
-    "LastName": "Jiang"
+    "firstName": "John",
+    "LastName": "Doe"
 }
 ```
 
@@ -118,8 +114,8 @@ ___
 
 ```json
 {
-    "firstName": "Jack",
-    "LastName": "Jiang"
+    "firstName": "John",
+    "LastName": "Doe"
 }
 ```
 
@@ -133,8 +129,8 @@ ___
 ```json
 {
     "key": @key,
-    "firstName": "Jack",
-    "LastName": "Jiang"
+    "firstName": "John",
+    "LastName": "Doe"
 }
 ```
 
@@ -181,8 +177,8 @@ ___
 ```json
 {
     "key": @key,
-    "firstName": "Jack",
-    "LastName": "Jiang"
+    "firstName": "John",
+    "LastName": "Doe"
 }
 ```
 
